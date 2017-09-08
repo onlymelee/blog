@@ -8,7 +8,7 @@ title:               Melee
 tagline:             'Material scientist'
 description:         ''
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             '/blog'
 paginate:            5
 
 # About/contact
