@@ -10,6 +10,7 @@ description:         ''
 url:                 http://lanyon.getpoole.com
 baseurl:             '/blog'
 paginate:            5
+excerpt_separator:  '<!-- more -->'
 
 # About/contact
 author:
